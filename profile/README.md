@@ -43,13 +43,6 @@ We offer a wide range of software development services, designed to help busines
 
 ---
 
-## 📈 GitHub Stats
-
-![Esscrypt GitHub stats](https://github-readme-stats.vercel.app/api?username=esscrypt&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esscrypt&layout=compact&theme=radical)
-
----
-
 ## 📫 Contact Us
 
 We would love to collaborate on exciting projects or help you solve your tech challenges.

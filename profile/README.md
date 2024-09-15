@@ -49,7 +49,7 @@ We would love to collaborate on exciting projects or help you solve your tech ch
 
 - **Email:** info@esscrypt.com
 - **LinkedIn:** [Esscrypt](https://www.linkedin.com/company/esscrypt/)
-- **Website:** [esscrypt.dev](https://esscrypt.com)
+- **Website:** [esscrypt.com](https://esscrypt.com)
 
 Feel free to reach out to discuss how we can collaborate!
 

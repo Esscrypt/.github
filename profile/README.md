@@ -1,58 +1,49 @@
-# Esscrypt - Crafting Scalable, Secure, and Efficient Software Solutions
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/company/esscrypt/)
-[![Website](https://img.shields.io/badge/Website-Visit-blue)](https://esscrypt.com)
+# Histori - Empowering Blockchain Insights, One Block at a Time
 
 ---
 
-## 👋 About Us
+## 👋 About Histori
 
-Welcome to **Esscrypt**, a forward-thinking software development company committed to delivering top-tier digital solutions. We specialize in developing robust, secure, and scalable software applications using a range of cutting-edge technologies. Our core expertise lies in **full-stack development**, **blockchain solutions**, **cloud infrastructure**, and **React-based frontend development**.
+Welcome to **Histori**, your gateway to understanding the rich history of blockchain. We provide seamless access to historical blockchain data across multiple networks, empowering developers, analysts, and enterprises to harness the full potential of blockchain technology.
 
-Whether you're a startup or an established business, we tailor software solutions that meet your unique needs, ensuring seamless scalability and high-performance.
-
----
-
-## 🛠️ Our Expertise
-
-### **Backend & Full-Stack Development**
-- **Languages:** TypeScript, JavaScript, Python, Solidity, Rust
-- **Frameworks & Libraries:** Node.js, Express, Sequelize ORM
-- **Blockchain:** ERC20, ERC721, ERC1155, Ethereum, OpenZeppelin
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Cloud Services:** AWS (Lambda, S3, EC2), Google Cloud
-- **APIs:** RESTful APIs, GraphQL, AWS API Gateway, Stripe Integration
-
-### **Frontend Development**
-- **Languages:** JavaScript, TypeScript, HTML, CSS
-- **Frameworks & Libraries:** React, Next.js, Redux, Styled Components, Material-UI, TailwindCSS
-- **Build Tools:** Webpack, Babel, Vite
-- **State Management:** Redux, React Context API
-- **Testing:** Jest, React Testing Library, Cypress
+At Histori, we celebrate the journey of every block, offering **REST APIs**, **SDKs**, and intuitive tools to make blockchain data accessible, actionable, and insightful. Whether you're building the next big DApp, conducting data analysis, or exploring blockchain ecosystems, Histori ensures that your data needs are met with precision and efficiency.
 
 ---
 
-## 🎯 What We Offer
+## 🛠️ What We Stand For
 
-We offer a wide range of software development services, designed to help businesses thrive in the digital world:
+### **Accessible Blockchain History**
+- **Multi-Network Support**: Ethereum, Binance Smart Chain, and more.
+- **Data At Your Fingertips**: Comprehensive APIs to retrieve block, transaction, and account history.
+- **Real-Time Insights**: Stay up-to-date with current blockchain events.
 
-- **Custom Web Applications:** From user-friendly UIs to powerful backend solutions, we develop responsive, high-performance applications using React and Node.js.
-- **Blockchain Solutions:** Expertise in Ethereum smart contracts, token standards (ERC20, ERC721, ERC1155), and decentralized applications.
-- **Cloud Architecture:** Full support for cloud-based solutions, including AWS Lambda, S3, EC2, and Google Cloud.
-- **Consulting & Mentorship:** Guidance in architecting, developing, and scaling software solutions, especially in blockchain, frontend, and backend development.
+### **Developer-Friendly Tools**
+- **REST APIs**: Simple, scalable, and intuitive for easy integration.
+- **SDKs**: Tailored for various programming environments.
+- **Documentation**: Clear, concise, and developer-focused at [docs.histori.xyz](https://docs.histori.xyz).
 
----
-
-## 📫 Contact Us
-
-We would love to collaborate on exciting projects or help you solve your tech challenges.
-
-- **Email:** info@esscrypt.com
-- **LinkedIn:** [Esscrypt](https://www.linkedin.com/company/esscrypt/)
-- **Website:** [esscrypt.com](https://esscrypt.com)
-
-Feel free to reach out to discuss how we can collaborate!
+### **Scalable Solutions**
+- Designed for startups, enterprises, and researchers to access and utilize blockchain data without limits.
 
 ---
 
-⭐️ From [Esscrypt](https://github.com/esscrypt)
+## 🎯 Why Choose Histori?
+
+- **Seamless Integration**: Simple APIs and SDKs to get started quickly.
+- **Reliability**: High uptime and rapid data retrieval for mission-critical applications.
+- **Innovation**: We’re continuously improving our platform to keep pace with the dynamic blockchain space.
+- **Tribute to Blockchain**: Histori is our homage to the blockchain revolution, ensuring its story is preserved and shared.
+
+---
+
+## 📫 Let's Build Together
+
+Explore the power of blockchain history with Histori. Whether you’re a developer, researcher, or visionary, we’re here to support your journey.
+
+- **Website**: [histori.xyz](https://histori.xyz)
+- **Docs**: [docs.histori.xyz](https://docs.histori.xyz)
+- **Email**: info@histori.xyz
+
+---
+
+⭐️ From [Histori](https://histori.xyz) – Making blockchain history accessible to all.
